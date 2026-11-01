@@ -1,0 +1,11 @@
+# Compatible range for the locally exercised pandas 3.0.6 environment.
+# Exact versions used in the verified run are recorded in reports/TECHNICAL_AUDIT.md.
+numpy>=2.0,<3
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+scikit-learn>=1.2,<2
+catboost>=1.2,<2
+nbformat>=5.9,<6
+jupyterlab>=4,<5
+ipykernel>=6,<8
+pytest>=7,<10
